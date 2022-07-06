@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TrullyDreamers/static/css/main.2ce01bd5.css",
+    "main.js": "/TrullyDreamers/static/js/main.632974ae.js",
+    "static/js/787.59f7e1b0.chunk.js": "/TrullyDreamers/static/js/787.59f7e1b0.chunk.js",
+    "static/media/daydreaming.jpg": "/TrullyDreamers/static/media/daydreaming.a8deadde40c1b3525d30.jpg",
+    "static/media/Inter-Regular.woff": "/TrullyDreamers/static/media/Inter-Regular.fc49d131f795b4d48f26.woff",
+    "static/media/Inter-Regular.woff2": "/TrullyDreamers/static/media/Inter-Regular.2505c0d4b34ffca98f8f.woff2",
+    "index.html": "/TrullyDreamers/index.html",
+    "main.2ce01bd5.css.map": "/TrullyDreamers/static/css/main.2ce01bd5.css.map",
+    "main.632974ae.js.map": "/TrullyDreamers/static/js/main.632974ae.js.map",
+    "787.59f7e1b0.chunk.js.map": "/TrullyDreamers/static/js/787.59f7e1b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce01bd5.css",
+    "static/js/main.632974ae.js"
+  ]
+}
