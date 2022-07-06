@@ -26,6 +26,9 @@ function App() {
 	    <div className={styles.App}>
 		<main className={styles.Content}>	
 		<h1 className={styles.Heading}>DAYDREAMING</h1>	
+		<p className={styles.Paragraph}>Hello, dreamer!</p>
+		<p className={styles.Paragraph}>Write here your dreams and remove when it realised.</p>
+		<p className={styles.Paragraph}>There are some of my list. Injoy of dreaming!</p>
 	    <ul className={styles.List}>
 		{result}
 		</ul>

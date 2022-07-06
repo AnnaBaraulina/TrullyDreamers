@@ -68,3 +68,14 @@
     padding: 0;
 }
 
+.Paragraph {
+    font-family: 'Inter';
+    color: rgb(237, 17, 175);
+    font-size: 15px; 
+    margin: 0;
+    padding: 0 10px 10px 0;
+}
+.Paragraph:last-of-type {
+    margin-bottom: 30px;
+}
+
