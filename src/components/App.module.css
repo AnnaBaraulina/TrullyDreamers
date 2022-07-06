@@ -1,0 +1,70 @@
+.App {
+    max-width: 2000px;
+    margin: 0 auto;
+    
+}
+
+.Heading {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: rgb(237, 17, 175);
+}
+.Dream {
+    font-family: 'Inter';
+    color: rgb(237, 17, 175);
+    font-size: 25px;
+}
+
+.Input {
+    max-width: 250px;
+    width: 100%;
+    padding: 0;
+    margin-right: 5px;
+    border: 1px solid rgb(237, 17, 175);
+    height: 25px;
+}
+
+.Button {
+    max-width: 100px;
+    width: 100%;
+    border-color: rgb(237, 17, 175);
+    color:rgb(237, 17, 175);
+    padding: 0;
+    font-family: 'Inter';
+    height: 25px;
+    
+    
+}
+
+.List {
+    cursor: default;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter';
+    max-width: 1240px;
+    width: 100%;
+    min-height: 1000px;
+    background-image: url('../images/daydreaming.jpg');
+}
+.removeIcon {
+    padding: 0;
+    margin: 0 0 -2px 5px;
+}
+.Container {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    max-width: 500px;
+    width: 100%;
+    margin-top: 0;
+    margin-left: -100px;
+    padding: 0;
+}
+
