@@ -3,7 +3,7 @@ import styles from './App.module.css';
 import { AiOutlineDelete } from 'react-icons/ai';
    
 function App() {
-	const [notes, setNotes] = useState(['Погладить собаку', 'Искупаться в озере', 'Погулять до утра', 'Прочитать книгу с захватывающим сюжетом', 'Проспать до полудня', 'Встретить закат у моря']);
+	const [notes, setNotes] = useState(['Стать крутым кодером', 'Завести Сан-Бернара', 'Искупаться в озере', 'Погулять до утра', 'Прочитать книгу с захватывающим сюжетом', 'Проспать до полудня', 'Встретить закат у моря']);
 	const [value, setValue] = useState('');
 	
 	const result = notes.map((note, index) => {
